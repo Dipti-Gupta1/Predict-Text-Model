@@ -31,4 +31,4 @@ By integrating and comparing the strengths of these models, we aspire to develop
 
 This project not only serves as a research endeavor but also as a practical tool for anyone interested in exploring the potential of NLP and machine learning technologies.
 
-![NLP Illustration]([https://example.com/nlp-image.png](https://i0.wp.com/ubiai.tools/wp-content/uploads/2023/11/Image-of-a-human-made-up-of-lit-up-lines-touching-a-graphic-which-reads-NLP.jpg?fit=1280%2C720&ssl=1))  <!-- Replace with an actual image URL -->
+https://drive.google.com/drive/u/0/folders/1G2_kvzzFIrUKhsCP-66mIUI4tl5uuZIv
