@@ -31,4 +31,4 @@ By integrating and comparing the strengths of these models, we aspire to develop
 
 This project not only serves as a research endeavor but also as a practical tool for anyone interested in exploring the potential of NLP and machine learning technologies.
 
-https://drive.google.com/drive/u/0/folders/1G2_kvzzFIrUKhsCP-66mIUI4tl5uuZIv
+
